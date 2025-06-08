@@ -1,0 +1,568 @@
+Title 1,Title 2,Title 3,Title 4
+OS 800,Austrian,Vienna,2025-05-30 08:00+03:00
+OS 800,Austrian,Vienna,2025-05-30 08:00+03:00
+FB 491,Bulgaria Air,Zurich,2025-05-30 08:30+03:00
+FR 3662,Ryanair,Bergamo,2025-05-30 09:15+03:00
+TK 1028,Turkish,Istanbul,2025-05-30 09:25+03:00
+XQ 651,Sun Express,Antalya,2025-05-30 09:40+03:00
+FB 301,Bulgaria Air,Prague,2025-05-30 10:10+03:00
+FR 7583,Ryanair,Nuremberg,2025-05-30 11:00+03:00
+LY 552,El Al,Tel Aviv Yafo,2025-05-30 11:05+03:00
+FR 6013,Ryanair,Eindhoven,2025-05-30 11:05+03:00
+FB 8055,Bulgaria Air,Enfidha,2025-05-30 11:35+03:00
+FR 5161,Ryanair,Edinburgh,2025-05-30 11:45+03:00
+FR 3832,Ryanair,Luqa,2025-05-30 11:50+03:00
+LH 1425,Lufthansa,Frankfurt-am-Main,2025-05-30 12:00+03:00
+LH 1425,Lufthansa,Frankfurt-am-Main,2025-05-30 12:00+03:00
+W6 4325,Wizz Air,Eindhoven,2025-05-30 12:05+03:00
+OS 796,Austrian,Vienna,2025-05-30 12:25+03:00
+LH 1703,Lufthansa,Munich,2025-05-30 12:45+03:00
+W6 4345,Wizz Air,Hamburg,2025-05-30 13:10+03:00
+FR 6427,Ryanair,Treviso,2025-05-30 13:15+03:00
+W6 4361,Wizz Air,Bari,2025-05-30 13:25+03:00
+QR 228,Qatar,Doha,2025-05-30 13:30+03:00
+FR 4963,Ryanair,Brussels,2025-05-30 13:45+03:00
+LH 1427,Lufthansa,Frankfurt-am-Main,2025-05-30 13:50+03:00
+BA 893,British,London,2025-05-30 14:20+03:00
+W6 4401,Wizz Air,Madrid,2025-05-30 14:30+03:00
+LO 632,LOT - Polish,Warsaw,2025-05-30 14:35+03:00
+FB 319,Bulgaria Air,Berlin,2025-05-30 14:50+03:00
+FB 977,Bulgaria Air,Varna,2025-05-30 15:00+03:00
+FR 5037,Ryanair,Catania,2025-05-30 15:05+03:00
+FB 851,Bulgaria Air,London,2025-05-30 15:20+03:00
+FZ 1758,flydubai,Dubai,2025-05-30 15:25+03:00
+TK 1032,Turkish,Istanbul,2025-05-30 15:35+03:00
+FB 437,Bulgaria Air,Frankfurt-am-Main,2025-05-30 15:40+03:00
+OS 792,Austrian,Vienna,2025-05-30 16:05+03:00
+JU 113,Air Serbia,Belgrade,2025-05-30 16:05+03:00
+FR 5571,Ryanair,Budapest,2025-05-30 16:15+03:00
+FR 1149,Ryanair,Berlin,2025-05-30 16:15+03:00
+FR 6409,Ryanair,Madrid,2025-05-30 16:20+03:00
+FR 3607,Ryanair,Copenhagen,2025-05-30 16:30+03:00
+FR 7065,Ryanair,Zagreb,2025-05-30 17:10+03:00
+W6 4411,Wizz Air,Málaga,2025-05-30 17:30+03:00
+W6 4321,Wizz Air,Beauvais/Tillé,2025-05-30 17:30+03:00
+FR 2691,Ryanair,London,2025-05-30 17:40+03:00
+W6 4405,Wizz Air,Barcelona,2025-05-30 17:55+03:00
+AZ 521,ITA,Rome,2025-05-30 18:00+03:00
+PC 272,Pegasus,Istanbul,2025-05-30 18:20+03:00
+LH 1429,Lufthansa,Frankfurt-am-Main,2025-05-30 18:35+03:00
+LO 634,LOT - Polish,Warsaw,2025-05-30 18:40+03:00
+OS 798,Austrian,Vienna,2025-05-30 18:55+03:00
+W6 4305,Wizz Air,London,2025-05-30 19:15+03:00
+LH 1705,Lufthansa,Munich,2025-05-30 19:25+03:00
+RO 298,TAROM,Bucharest,2025-05-30 19:45+03:00
+W6 4437,Wizz Air,Larnarca,2025-05-30 20:00+03:00
+W6 4437,Wizz Air,Larnarca,2025-05-30 20:00+03:00
+FR 5453,Ryanair,Bari,2025-05-30 20:00+03:00
+FR 5453,Ryanair,Bari,2025-05-30 20:00+03:00
+FR 6301,Ryanair,Barcelona,2025-05-30 20:40+03:00
+FB 973,Bulgaria Air,Varna,2025-05-30 20:45+03:00
+FR 6001,Ryanair,Memmingen,2025-05-30 20:50+03:00
+D8 2861,Norwegian Air Sweden,Helsinki,2025-05-30 21:05+03:00
+TK 1030,Turkish,Istanbul,2025-05-30 21:15+03:00
+A3 983,Aegean,Athens,2025-05-30 21:15+03:00
+FR 183,Ryanair,Vienna,2025-05-30 21:20+03:00
+FR 3620,Ryanair,Wrocław,2025-05-30 21:25+03:00
+JU 117,Air Serbia,Belgrade,2025-05-31 05:00+03:00
+LO 636,LOT - Polish,Warsaw,2025-05-31 05:20+03:00
+FR 1731,Ryanair,London,2025-05-31 05:45+03:00
+W6 4427,Wizz Air,Tel Aviv Yafo,2025-05-31 05:55+03:00
+LH 1707,Lufthansa,Munich,2025-05-31 06:00+03:00
+W6 4335,Wizz Air,Stuttgart,2025-05-31 06:00+03:00
+W6 4301,Wizz Air,London,2025-05-31 06:10+03:00
+LH 1431,Lufthansa,Frankfurt-am-Main,2025-05-31 06:15+03:00
+FB 851,Bulgaria Air,London,2025-05-31 06:25+03:00
+W6 4351,Wizz Air,Bergamo,2025-05-31 06:45+03:00
+FR 6001,Ryanair,Memmingen,2025-05-31 06:50+03:00
+FB 461,Bulgaria Air,Amsterdam,2025-05-31 07:00+03:00
+FB 431,Bulgaria Air,Paris,2025-05-31 07:00+03:00
+FB 449,Bulgaria Air,Rome,2025-05-31 07:00+03:00
+FB 8793,Bulgaria Air,Bodrum,2025-05-31 07:05+03:00
+W6 4323,Wizz Air,Bâle/Mulhouse,2025-05-31 07:10+03:00
+FR 6301,Ryanair,Barcelona,2025-05-31 07:40+03:00
+OS 800,Austrian,Vienna,2025-05-31 08:00+03:00
+OS 800,Austrian,Vienna,2025-05-31 08:00+03:00
+TK 1028,Turkish,Istanbul,2025-05-31 09:25+03:00
+FR 3765,Ryanair,Vienna,2025-05-31 09:25+03:00
+FR 2691,Ryanair,London,2025-05-31 09:30+03:00
+FR 5951,Ryanair,Baden-Baden,2025-05-31 09:45+03:00
+FR 3438,Ryanair,Bergamo,2025-05-31 09:45+03:00
+RO 292,TAROM,Bucharest,2025-05-31 10:05+03:00
+LX 1391,SWISS,Zurich,2025-05-31 10:50+03:00
+FR 3623,Ryanair,Málaga,2025-05-31 10:55+03:00
+FR 1441,Ryanair,Hahn,2025-05-31 11:00+03:00
+FR 3832,Ryanair,Luqa,2025-05-31 11:15+03:00
+FR 5037,Ryanair,Catania,2025-05-31 11:45+03:00
+W6 4315,Wizz Air,Roma,2025-05-31 11:55+03:00
+LH 1425,Lufthansa,Frankfurt-am-Main,2025-05-31 12:00+03:00
+LH 1425,Lufthansa,Frankfurt-am-Main,2025-05-31 12:00+03:00
+W6 4325,Wizz Air,Eindhoven,2025-05-31 12:05+03:00
+OS 796,Austrian,Vienna,2025-05-31 12:25+03:00
+W6 4423,Wizz Air,Yerevan,2025-05-31 12:25+03:00
+FR 6235,Ryanair,Alicante,2025-05-31 12:40+03:00
+LH 1703,Lufthansa,Munich,2025-05-31 12:45+03:00
+PC 5544,Pegasus,Antalya,2025-05-31 13:00+03:00
+FB 477,Bulgaria Air,Barcelona,2025-05-31 13:00+03:00
+W6 4317,Wizz Air,Hahn,2025-05-31 13:15+03:00
+PC 272,Pegasus,Istanbul,2025-05-31 13:30+03:00
+QR 228,Qatar,Doha,2025-05-31 13:30+03:00
+FR 3338,Ryanair,Paphos,2025-05-31 13:45+03:00
+LH 1427,Lufthansa,Frankfurt-am-Main,2025-05-31 14:05+03:00
+W6 4331,Wizz Air,Dortmund,2025-05-31 14:20+03:00
+FR 625,Ryanair,Roma,2025-05-31 14:25+03:00
+FR 5453,Ryanair,Bari,2025-05-31 14:30+03:00
+LO 632,LOT - Polish,Warsaw,2025-05-31 14:35+03:00
+FR 4963,Ryanair,Brussels,2025-05-31 14:35+03:00
+FB 977,Bulgaria Air,Varna,2025-05-31 15:00+03:00
+BT 468,airBaltic,Riga,2025-05-31 15:00+03:00
+FB 467,Bulgaria Air,Palma De Mallorca,2025-05-31 15:05+03:00
+FB 479,Bulgaria Air,Málaga,2025-05-31 15:15+03:00
+FR 5548,Ryanair,Bologna,2025-05-31 15:15+03:00
+A3 981,Aegean,Athens,2025-05-31 15:25+03:00
+TK 1032,Turkish,Istanbul,2025-05-31 15:35+03:00
+FB 6815,Bulgaria Air,Houmt El Souk,2025-05-31 15:50+03:00
+OS 792,Austrian,Vienna,2025-05-31 16:05+03:00
+JU 113,Air Serbia,Belgrade,2025-05-31 16:05+03:00
+FR 4130,Ryanair,Bristol,2025-05-31 16:30+03:00
+FR 5204,Ryanair,Dublin,2025-05-31 17:00+03:00
+FB 971,Bulgaria Air,Varna,2025-05-31 17:35+03:00
+W6 4327,Wizz Air,Brussels,2025-05-31 18:05+03:00
+FR 9962,Ryanair,London,2025-05-31 18:25+03:00
+LO 634,LOT - Polish,Warsaw,2025-05-31 18:40+03:00
+OS 798,Austrian,Vienna,2025-05-31 18:55+03:00
+5W 4431,Wizz Air Abu Dhabi,Abu Dhabi Island and Internal Islands City,2025-05-31 19:10+03:00
+LH 1705,Lufthansa,Munich,2025-05-31 19:25+03:00
+FR 3662,Ryanair,Bergamo,2025-05-31 19:40+03:00
+FB 563,Bulgaria Air,Lisbon,2025-05-31 19:40+03:00
+W6 4393,Wizz Air,Lyon,2025-05-31 19:50+03:00
+FR 5472,Ryanair,Nápoli,2025-05-31 20:50+03:00
+TK 1030,Turkish,Istanbul,2025-05-31 21:15+03:00
+DY 1577,Norwegian Air Shuttle,Oslo,2025-05-31 21:40+03:00
+FR 3401,Ryanair,Bergamo,2025-05-31 22:25+03:00
+FR 5571,Ryanair,Budapest,2025-05-31 23:15+03:00
+LY 558,El Al,Tel Aviv Yafo,2025-06-01 00:20+03:00
+W6 4427,Wizz Air,Tel Aviv Yafo,2025-06-01 05:55+03:00
+W6 4415,Wizz Air,Nice,2025-06-01 06:00+03:00
+LH 1707,Lufthansa,Munich,2025-06-01 06:00+03:00
+W6 4301,Wizz Air,London,2025-06-01 06:10+03:00
+FR 9237,Ryanair,Valencia,2025-06-01 06:10+03:00
+FB 471,Bulgaria Air,Madrid,2025-06-01 06:10+03:00
+FR 1731,Ryanair,London,2025-06-01 06:15+03:00
+LH 1431,Lufthansa,Frankfurt-am-Main,2025-06-01 06:20+03:00
+FB 851,Bulgaria Air,London,2025-06-01 06:25+03:00
+FR 4383,Ryanair,Beauvais/Tillé,2025-06-01 06:40+03:00
+W6 4351,Wizz Air,Bergamo,2025-06-01 06:45+03:00
+W6 4361,Wizz Air,Bari,2025-06-01 06:55+03:00
+FB 431,Bulgaria Air,Paris,2025-06-01 07:00+03:00
+FB 461,Bulgaria Air,Amsterdam,2025-06-01 07:00+03:00
+W6 4339,Wizz Air,Memmingen,2025-06-01 07:10+03:00
+FR 625,Ryanair,Roma,2025-06-01 07:35+03:00
+OS 800,Austrian,Vienna,2025-06-01 08:00+03:00
+OS 800,Austrian,Vienna,2025-06-01 08:00+03:00
+FB 491,Bulgaria Air,Zurich,2025-06-01 08:10+03:00
+FR 183,Ryanair,Vienna,2025-06-01 09:10+03:00
+FR 3620,Ryanair,Wrocław,2025-06-01 09:25+03:00
+TK 1028,Turkish,Istanbul,2025-06-01 09:25+03:00
+XQ 651,Sun Express,Antalya,2025-06-01 09:40+03:00
+FR 3438,Ryanair,Bergamo,2025-06-01 10:00+03:00
+U2 4912,easyJet,Paris,2025-06-01 10:30+03:00
+W6 4331,Wizz Air,Dortmund,2025-06-01 10:45+03:00
+A3 981,Aegean,Athens,2025-06-01 11:15+03:00
+W6 4315,Wizz Air,Roma,2025-06-01 11:55+03:00
+FR 6013,Ryanair,Eindhoven,2025-06-01 12:00+03:00
+FR 6013,Ryanair,Eindhoven,2025-06-01 12:00+03:00
+LH 1425,Lufthansa,Frankfurt-am-Main,2025-06-01 12:00+03:00
+LH 1425,Lufthansa,Frankfurt-am-Main,2025-06-01 12:00+03:00
+W6 4325,Wizz Air,Eindhoven,2025-06-01 12:05+03:00
+OS 796,Austrian,Vienna,2025-06-01 12:25+03:00
+W6 4369,Wizz Air,Nápoli,2025-06-01 12:30+03:00
+LH 1703,Lufthansa,Munich,2025-06-01 12:45+03:00
+FR 5011,Ryanair,Pisa,2025-06-01 13:35+03:00
+FR 957,Ryanair,Palma De Mallorca,2025-06-01 13:45+03:00
+FB 879,Bulgaria Air,Heraklion,2025-06-01 13:45+03:00
+FR 3607,Ryanair,Copenhagen,2025-06-01 13:50+03:00
+LH 1427,Lufthansa,Frankfurt-am-Main,2025-06-01 13:55+03:00
+FR 6337,Ryanair,Liverpool,2025-06-01 13:55+03:00
+FR 1209,Ryanair,Bratislava,2025-06-01 14:10+03:00
+W6 4401,Wizz Air,Madrid,2025-06-01 14:30+03:00
+LO 632,LOT - Polish,Warsaw,2025-06-01 14:35+03:00
+FB 977,Bulgaria Air,Varna,2025-06-01 15:00+03:00
+FB 455,Bulgaria Air,Milan,2025-06-01 15:00+03:00
+FR 7065,Ryanair,Zagreb,2025-06-01 15:05+03:00
+FZ 1758,flydubai,Dubai,2025-06-01 15:25+03:00
+FB 301,Bulgaria Air,Prague,2025-06-01 15:25+03:00
+FB 433,Bulgaria Air,Paris,2025-06-01 15:30+03:00
+TK 1032,Turkish,Istanbul,2025-06-01 15:35+03:00
+FR 4365,Ryanair,Souda,2025-06-01 15:40+03:00
+JU 113,Air Serbia,Belgrade,2025-06-01 16:05+03:00
+OS 792,Austrian,Vienna,2025-06-01 16:05+03:00
+FR 1149,Ryanair,Berlin,2025-06-01 16:40+03:00
+W6 4327,Wizz Air,Brussels,2025-06-01 17:05+03:00
+U8 217,Tus,Thessaloniki,2025-06-01 17:10+03:00
+W6 4405,Wizz Air,Barcelona,2025-06-01 17:55+03:00
+FR 4963,Ryanair,Brussels,2025-06-01 18:00+03:00
+AZ 521,ITA,Rome,2025-06-01 18:00+03:00
+FB 407,Bulgaria Air,Brussels,2025-06-01 18:05+03:00
+FB 437,Bulgaria Air,Frankfurt-am-Main,2025-06-01 18:10+03:00
+FR 9962,Ryanair,London,2025-06-01 18:35+03:00
+LO 634,LOT - Polish,Warsaw,2025-06-01 18:40+03:00
+U8 313,Tus,Tel Aviv Yafo,2025-06-01 18:55+03:00
+BZ 313,Blue Dart Aviation Ltd.,Tel Aviv Yafo,2025-06-01 18:55+03:00
+OS 798,Austrian,Vienna,2025-06-01 18:55+03:00
+PC 272,Pegasus,Istanbul,2025-06-01 19:10+03:00
+W6 4305,Wizz Air,London,2025-06-01 19:15+03:00
+LH 1705,Lufthansa,Munich,2025-06-01 19:25+03:00
+TO 4479,Transavia France,Paris,2025-06-01 20:05+03:00
+W6 4437,Wizz Air,Larnarca,2025-06-01 20:15+03:00
+FR 5571,Ryanair,Budapest,2025-06-01 20:30+03:00
+FB 973,Bulgaria Air,Varna,2025-06-01 20:45+03:00
+BA 893,British,London,2025-06-01 21:10+03:00
+TK 1030,Turkish,Istanbul,2025-06-01 21:15+03:00
+FR 6767,Ryanair,Rodes Island,2025-06-01 21:25+03:00
+FR 3338,Ryanair,Paphos,2025-06-01 22:40+03:00
+FR 5204,Ryanair,Dublin,2025-06-01 23:20+03:00
+FR 3662,Ryanair,Bergamo,2025-06-01 23:45+03:00
+JU 117,Air Serbia,Belgrade,2025-06-02 05:00+03:00
+LO 636,LOT - Polish,Warsaw,2025-06-02 05:20+03:00
+FR 6409,Ryanair,Madrid,2025-06-02 05:45+03:00
+FR 1254,Ryanair,Zadar,2025-06-02 05:45+03:00
+W6 4427,Wizz Air,Tel Aviv Yafo,2025-06-02 05:55+03:00
+LH 1707,Lufthansa,Munich,2025-06-02 06:00+03:00
+W6 4415,Wizz Air,Nice,2025-06-02 06:00+03:00
+W6 4301,Wizz Air,London,2025-06-02 06:10+03:00
+LH 1431,Lufthansa,Frankfurt-am-Main,2025-06-02 06:15+03:00
+FB 573,Bulgaria Air,Tel Aviv Yafo,2025-06-02 06:20+03:00
+FR 5161,Ryanair,Edinburgh,2025-06-02 06:25+03:00
+FB 975,Bulgaria Air,Varna,2025-06-02 06:40+03:00
+W6 4351,Wizz Air,Bergamo,2025-06-02 06:45+03:00
+W6 4331,Wizz Air,Dortmund,2025-06-02 06:55+03:00
+FB 431,Bulgaria Air,Paris,2025-06-02 07:00+03:00
+FB 971,Bulgaria Air,Varna,2025-06-02 07:00+03:00
+FB 461,Bulgaria Air,Amsterdam,2025-06-02 07:00+03:00
+W6 4339,Wizz Air,Memmingen,2025-06-02 07:10+03:00
+OS 800,Austrian,Vienna,2025-06-02 08:00+03:00
+OS 800,Austrian,Vienna,2025-06-02 08:00+03:00
+FR 3832,Ryanair,Luqa,2025-06-02 09:10+03:00
+TK 1028,Turkish,Istanbul,2025-06-02 09:25+03:00
+FR 4453,Ryanair,Cologne,2025-06-02 09:35+03:00
+FR 3607,Ryanair,Copenhagen,2025-06-02 09:50+03:00
+FB 319,Bulgaria Air,Berlin,2025-06-02 10:20+03:00
+FB 471,Bulgaria Air,Madrid,2025-06-02 10:20+03:00
+FR 3662,Ryanair,Bergamo,2025-06-02 10:35+03:00
+A3 981,Aegean,Athens,2025-06-02 10:50+03:00
+FR 5472,Ryanair,Nápoli,2025-06-02 11:55+03:00
+LH 1425,Lufthansa,Frankfurt-am-Main,2025-06-02 12:00+03:00
+LH 1425,Lufthansa,Frankfurt-am-Main,2025-06-02 12:00+03:00
+W6 4325,Wizz Air,Eindhoven,2025-06-02 12:05+03:00
+OS 796,Austrian,Vienna,2025-06-02 12:25+03:00
+LH 1703,Lufthansa,Munich,2025-06-02 12:45+03:00
+AZ 521,ITA,Rome,2025-06-02 12:55+03:00
+RO 292,TAROM,Bucharest,2025-06-02 13:00+03:00
+W6 4345,Wizz Air,Hamburg,2025-06-02 13:10+03:00
+W6 4361,Wizz Air,Bari,2025-06-02 13:25+03:00
+FB 7709,Bulgaria Air,Enfidha,2025-06-02 13:25+03:00
+QR 228,Qatar,Doha,2025-06-02 13:30+03:00
+PC 272,Pegasus,Istanbul,2025-06-02 13:45+03:00
+LH 1427,Lufthansa,Frankfurt-am-Main,2025-06-02 13:50+03:00
+FR 4365,Ryanair,Souda,2025-06-02 14:15+03:00
+W6 4401,Wizz Air,Madrid,2025-06-02 14:30+03:00
+LO 632,LOT - Polish,Warsaw,2025-06-02 14:35+03:00
+FR 6427,Ryanair,Treviso,2025-06-02 14:45+03:00
+FB 977,Bulgaria Air,Varna,2025-06-02 15:00+03:00
+FB 851,Bulgaria Air,London,2025-06-02 15:20+03:00
+FZ 1758,flydubai,Dubai,2025-06-02 15:25+03:00
+LX 1391,SWISS,Zurich,2025-06-02 15:30+03:00
+TK 1032,Turkish,Istanbul,2025-06-02 15:35+03:00
+FR 2691,Ryanair,London,2025-06-02 15:45+03:00
+JU 113,Air Serbia,Belgrade,2025-06-02 16:05+03:00
+OS 792,Austrian,Vienna,2025-06-02 16:05+03:00
+FR 625,Ryanair,Roma,2025-06-02 16:10+03:00
+FR 6335,Ryanair,Birmingham,2025-06-02 16:25+03:00
+FR 7583,Ryanair,Nuremberg,2025-06-02 17:05+03:00
+FR 9237,Ryanair,Valencia,2025-06-02 17:05+03:00
+W6 4411,Wizz Air,Málaga,2025-06-02 17:10+03:00
+W6 4321,Wizz Air,Beauvais/Tillé,2025-06-02 17:30+03:00
+W6 4405,Wizz Air,Barcelona,2025-06-02 17:55+03:00
+FR 6013,Ryanair,Eindhoven,2025-06-02 18:15+03:00
+LO 634,LOT - Polish,Warsaw,2025-06-02 18:40+03:00
+FR 6301,Ryanair,Barcelona,2025-06-02 18:45+03:00
+OS 798,Austrian,Vienna,2025-06-02 18:55+03:00
+W6 4305,Wizz Air,London,2025-06-02 19:15+03:00
+FB 563,Bulgaria Air,Lisbon,2025-06-02 19:20+03:00
+LH 1705,Lufthansa,Munich,2025-06-02 19:25+03:00
+FR 5460,Ryanair,Bari,2025-06-02 19:30+03:00
+FR 5037,Ryanair,Catania,2025-06-02 19:45+03:00
+BA 893,British,London,2025-06-02 20:00+03:00
+BA 893,British,London,2025-06-02 20:00+03:00
+W6 4437,Wizz Air,Larnarca,2025-06-02 20:00+03:00
+W6 4437,Wizz Air,Larnarca,2025-06-02 20:00+03:00
+FB 973,Bulgaria Air,Varna,2025-06-02 20:45+03:00
+FR 9962,Ryanair,London,2025-06-02 21:10+03:00
+FR 183,Ryanair,Vienna,2025-06-02 21:15+03:00
+A3 983,Aegean,Athens,2025-06-02 21:15+03:00
+TK 1030,Turkish,Istanbul,2025-06-02 21:15+03:00
+FR 5548,Ryanair,Bologna,2025-06-02 21:20+03:00
+D8 2861,Norwegian Air Sweden,Helsinki,2025-06-02 22:35+03:00
+FR 1234,Ryanair,Kerkyra Island,2025-06-02 22:45+03:00
+LY 558,El Al,Tel Aviv Yafo,2025-06-03 00:20+03:00
+FR 1731,Ryanair,London,2025-06-03 05:45+03:00
+FR 5453,Ryanair,Bari,2025-06-03 05:50+03:00
+W6 4335,Wizz Air,Stuttgart,2025-06-03 06:00+03:00
+LH 1707,Lufthansa,Munich,2025-06-03 06:00+03:00
+W6 4427,Wizz Air,Tel Aviv Yafo,2025-06-03 06:05+03:00
+W6 4301,Wizz Air,London,2025-06-03 06:10+03:00
+FR 6235,Ryanair,Alicante,2025-06-03 06:15+03:00
+FB 573,Bulgaria Air,Tel Aviv Yafo,2025-06-03 06:20+03:00
+LH 1431,Lufthansa,Frankfurt-am-Main,2025-06-03 06:20+03:00
+FR 1149,Ryanair,Berlin,2025-06-03 06:35+03:00
+W6 4351,Wizz Air,Bergamo,2025-06-03 06:45+03:00
+FB 449,Bulgaria Air,Rome,2025-06-03 07:00+03:00
+FB 431,Bulgaria Air,Paris,2025-06-03 07:00+03:00
+FB 971,Bulgaria Air,Varna,2025-06-03 07:00+03:00
+FB 461,Bulgaria Air,Amsterdam,2025-06-03 07:00+03:00
+W6 4323,Wizz Air,Bâle/Mulhouse,2025-06-03 07:10+03:00
+OS 800,Austrian,Vienna,2025-06-03 08:00+03:00
+OS 800,Austrian,Vienna,2025-06-03 08:00+03:00
+FR 625,Ryanair,Roma,2025-06-03 09:20+03:00
+TK 1028,Turkish,Istanbul,2025-06-03 09:25+03:00
+XQ 651,Sun Express,Antalya,2025-06-03 09:40+03:00
+FR 1441,Ryanair,Hahn,2025-06-03 09:40+03:00
+RO 292,TAROM,Bucharest,2025-06-03 10:05+03:00
+FR 3765,Ryanair,Vienna,2025-06-03 10:05+03:00
+FB 301,Bulgaria Air,Prague,2025-06-03 10:10+03:00
+FB 455,Bulgaria Air,Milan,2025-06-03 10:10+03:00
+LY 552,El Al,Tel Aviv Yafo,2025-06-03 11:05+03:00
+FR 5548,Ryanair,Bologna,2025-06-03 11:45+03:00
+W6 4315,Wizz Air,Roma,2025-06-03 11:55+03:00
+LH 1425,Lufthansa,Frankfurt-am-Main,2025-06-03 12:00+03:00
+LH 1425,Lufthansa,Frankfurt-am-Main,2025-06-03 12:00+03:00
+PC 5544,Pegasus,Antalya,2025-06-03 12:00+03:00
+PC 5544,Pegasus,Antalya,2025-06-03 12:00+03:00
+U8 313,Tus,Tel Aviv Yafo,2025-06-03 12:05+03:00
+W6 4325,Wizz Air,Eindhoven,2025-06-03 12:05+03:00
+OS 796,Austrian,Vienna,2025-06-03 12:25+03:00
+W6 4423,Wizz Air,Yerevan,2025-06-03 12:25+03:00
+LH 1703,Lufthansa,Munich,2025-06-03 12:45+03:00
+FB 477,Bulgaria Air,Barcelona,2025-06-03 13:00+03:00
+LX 1391,SWISS,Zurich,2025-06-03 13:15+03:00
+FR 6301,Ryanair,Barcelona,2025-06-03 13:15+03:00
+W6 4317,Wizz Air,Hahn,2025-06-03 13:55+03:00
+LH 1427,Lufthansa,Frankfurt-am-Main,2025-06-03 14:00+03:00
+FR 4963,Ryanair,Brussels,2025-06-03 14:10+03:00
+W6 4331,Wizz Air,Dortmund,2025-06-03 14:20+03:00
+LO 632,LOT - Polish,Warsaw,2025-06-03 14:35+03:00
+FB 479,Bulgaria Air,Málaga,2025-06-03 14:55+03:00
+BT 468,airBaltic,Riga,2025-06-03 15:00+03:00
+FB 977,Bulgaria Air,Varna,2025-06-03 15:00+03:00
+FB 467,Bulgaria Air,Palma De Mallorca,2025-06-03 15:05+03:00
+A3 981,Aegean,Athens,2025-06-03 15:20+03:00
+TK 1032,Turkish,Istanbul,2025-06-03 15:35+03:00
+JU 113,Air Serbia,Belgrade,2025-06-03 16:05+03:00
+FR 6013,Ryanair,Eindhoven,2025-06-03 16:05+03:00
+OS 792,Austrian,Vienna,2025-06-03 16:05+03:00
+FB 807,Bulgaria Air,Athens,2025-06-03 16:25+03:00
+FR 3623,Ryanair,Málaga,2025-06-03 16:45+03:00
+FB 407,Bulgaria Air,Brussels,2025-06-03 18:05+03:00
+W6 4327,Wizz Air,Brussels,2025-06-03 18:10+03:00
+LH 1429,Lufthansa,Frankfurt-am-Main,2025-06-03 18:35+03:00
+PC 272,Pegasus,Istanbul,2025-06-03 18:40+03:00
+LO 634,LOT - Polish,Warsaw,2025-06-03 18:40+03:00
+OS 798,Austrian,Vienna,2025-06-03 18:55+03:00
+BZ 313,Blue Dart Aviation Ltd.,Tel Aviv Yafo,2025-06-03 18:55+03:00
+5W 4431,Wizz Air Abu Dhabi,Abu Dhabi Island and Internal Islands City,2025-06-03 18:55+03:00
+LH 1705,Lufthansa,Munich,2025-06-03 19:25+03:00
+W6 4393,Wizz Air,Lyon,2025-06-03 19:50+03:00
+FR 5571,Ryanair,Budapest,2025-06-03 20:05+03:00
+U2 4912,easyJet,Paris,2025-06-03 20:10+03:00
+FR 3607,Ryanair,Copenhagen,2025-06-03 20:20+03:00
+FR 5037,Ryanair,Catania,2025-06-03 20:25+03:00
+FB 973,Bulgaria Air,Varna,2025-06-03 20:45+03:00
+FR 183,Ryanair,Vienna,2025-06-03 21:00+03:00
+TK 1030,Turkish,Istanbul,2025-06-03 21:15+03:00
+FR 5951,Ryanair,Baden-Baden,2025-06-03 21:25+03:00
+FR 5011,Ryanair,Pisa,2025-06-03 22:35+03:00
+FR 2691,Ryanair,London,2025-06-03 22:50+03:00
+FR 4365,Ryanair,Souda,2025-06-03 23:25+03:00
+FR 3620,Ryanair,Wrocław,2025-06-03 23:35+03:00
+UD 1732,UR,Arbil,2025-06-04 01:00+03:00
+LO 636,LOT - Polish,Warsaw,2025-06-04 05:20+03:00
+FR 1731,Ryanair,London,2025-06-04 05:45+03:00
+FR 5204,Ryanair,Dublin,2025-06-04 05:45+03:00
+W6 4427,Wizz Air,Tel Aviv Yafo,2025-06-04 05:55+03:00
+W6 4415,Wizz Air,Nice,2025-06-04 06:00+03:00
+FR 4791,Ryanair,Skiathos,2025-06-04 06:00+03:00
+LH 1707,Lufthansa,Munich,2025-06-04 06:00+03:00
+FB 471,Bulgaria Air,Madrid,2025-06-04 06:10+03:00
+W6 4301,Wizz Air,London,2025-06-04 06:10+03:00
+LH 1431,Lufthansa,Frankfurt-am-Main,2025-06-04 06:15+03:00
+W6 4351,Wizz Air,Bergamo,2025-06-04 06:45+03:00
+W6 4331,Wizz Air,Dortmund,2025-06-04 06:55+03:00
+FB 461,Bulgaria Air,Amsterdam,2025-06-04 07:00+03:00
+FB 971,Bulgaria Air,Varna,2025-06-04 07:00+03:00
+FB 431,Bulgaria Air,Paris,2025-06-04 07:00+03:00
+W6 4339,Wizz Air,Memmingen,2025-06-04 07:10+03:00
+FR 6013,Ryanair,Eindhoven,2025-06-04 07:40+03:00
+OS 800,Austrian,Vienna,2025-06-04 08:00+03:00
+OS 800,Austrian,Vienna,2025-06-04 08:00+03:00
+FR 5453,Ryanair,Bari,2025-06-04 09:00+03:00
+TK 1028,Turkish,Istanbul,2025-06-04 09:25+03:00
+FR 1149,Ryanair,Berlin,2025-06-04 09:35+03:00
+FR 6001,Ryanair,Memmingen,2025-06-04 10:05+03:00
+RO 292,TAROM,Bucharest,2025-06-04 10:05+03:00
+FB 449,Bulgaria Air,Rome,2025-06-04 10:10+03:00
+FR 4383,Ryanair,Beauvais/Tillé,2025-06-04 10:15+03:00
+FR 6409,Ryanair,Madrid,2025-06-04 10:35+03:00
+FR 5472,Ryanair,Nápoli,2025-06-04 10:45+03:00
+LX 1391,SWISS,Zurich,2025-06-04 10:50+03:00
+FR 3438,Ryanair,Bergamo,2025-06-04 10:55+03:00
+FB 437,Bulgaria Air,Frankfurt-am-Main,2025-06-04 10:55+03:00
+FR 6337,Ryanair,Liverpool,2025-06-04 11:35+03:00
+LH 1425,Lufthansa,Frankfurt-am-Main,2025-06-04 12:00+03:00
+LH 1425,Lufthansa,Frankfurt-am-Main,2025-06-04 12:00+03:00
+W6 4325,Wizz Air,Eindhoven,2025-06-04 12:05+03:00
+OS 796,Austrian,Vienna,2025-06-04 12:25+03:00
+FR 5161,Ryanair,Edinburgh,2025-06-04 12:25+03:00
+LH 1703,Lufthansa,Munich,2025-06-04 12:45+03:00
+FR 4130,Ryanair,Bristol,2025-06-04 12:50+03:00
+FR 4963,Ryanair,Brussels,2025-06-04 12:50+03:00
+AZ 521,ITA,Rome,2025-06-04 12:55+03:00
+W6 4345,Wizz Air,Hamburg,2025-06-04 13:10+03:00
+FR 957,Ryanair,Palma De Mallorca,2025-06-04 13:15+03:00
+W6 4361,Wizz Air,Bari,2025-06-04 13:20+03:00
+FR 6301,Ryanair,Barcelona,2025-06-04 13:35+03:00
+FR 6767,Ryanair,Rodes Island,2025-06-04 13:40+03:00
+PC 272,Pegasus,Istanbul,2025-06-04 13:45+03:00
+LH 1427,Lufthansa,Frankfurt-am-Main,2025-06-04 14:05+03:00
+W6 4401,Wizz Air,Madrid,2025-06-04 14:30+03:00
+LO 632,LOT - Polish,Warsaw,2025-06-04 14:35+03:00
+FR 625,Ryanair,Roma,2025-06-04 14:45+03:00
+FB 319,Bulgaria Air,Berlin,2025-06-04 14:50+03:00
+FB 977,Bulgaria Air,Varna,2025-06-04 15:00+03:00
+FB 851,Bulgaria Air,London,2025-06-04 15:20+03:00
+FZ 1758,flydubai,Dubai,2025-06-04 15:25+03:00
+TK 1032,Turkish,Istanbul,2025-06-04 15:35+03:00
+A3 981,Aegean,Athens,2025-06-04 16:00+03:00
+A3 981,Aegean,Athens,2025-06-04 16:00+03:00
+OS 792,Austrian,Vienna,2025-06-04 16:05+03:00
+JU 113,Air Serbia,Belgrade,2025-06-04 16:05+03:00
+FR 2691,Ryanair,London,2025-06-04 16:30+03:00
+W6 4321,Wizz Air,Beauvais/Tillé,2025-06-04 17:30+03:00
+W6 4409,Wizz Air,Valencia,2025-06-04 17:35+03:00
+W6 4405,Wizz Air,Barcelona,2025-06-04 17:55+03:00
+FB 407,Bulgaria Air,Brussels,2025-06-04 18:05+03:00
+FR 9962,Ryanair,London,2025-06-04 18:30+03:00
+FR 3832,Ryanair,Luqa,2025-06-04 18:35+03:00
+LH 1429,Lufthansa,Frankfurt-am-Main,2025-06-04 18:40+03:00
+LO 634,LOT - Polish,Warsaw,2025-06-04 18:40+03:00
+OS 798,Austrian,Vienna,2025-06-04 18:55+03:00
+FR 6427,Ryanair,Treviso,2025-06-04 19:00+03:00
+W6 4305,Wizz Air,London,2025-06-04 19:15+03:00
+U2 4912,easyJet,Paris,2025-06-04 19:25+03:00
+LH 1705,Lufthansa,Munich,2025-06-04 19:25+03:00
+FB 563,Bulgaria Air,Lisbon,2025-06-04 19:40+03:00
+FR 3662,Ryanair,Bergamo,2025-06-04 19:45+03:00
+FR 5571,Ryanair,Budapest,2025-06-04 19:55+03:00
+W6 4437,Wizz Air,Larnarca,2025-06-04 20:00+03:00
+W6 4437,Wizz Air,Larnarca,2025-06-04 20:00+03:00
+FR 3607,Ryanair,Copenhagen,2025-06-04 20:45+03:00
+FB 973,Bulgaria Air,Varna,2025-06-04 20:45+03:00
+LY 552,El Al,Tel Aviv Yafo,2025-06-04 21:05+03:00
+TK 1030,Turkish,Istanbul,2025-06-04 21:15+03:00
+FR 183,Ryanair,Vienna,2025-06-04 21:20+03:00
+DY 1577,Norwegian Air Shuttle,Oslo,2025-06-04 21:25+03:00
+BA 893,British,London,2025-06-04 21:30+03:00
+FR 5037,Ryanair,Catania,2025-06-04 21:50+03:00
+FR 7583,Ryanair,Nuremberg,2025-06-05 00:10+03:00
+JU 117,Air Serbia,Belgrade,2025-06-05 05:00+03:00
+LO 636,LOT - Polish,Warsaw,2025-06-05 05:20+03:00
+FR 1731,Ryanair,London,2025-06-05 05:45+03:00
+FR 1234,Ryanair,Kerkyra Island,2025-06-05 05:45+03:00
+W6 4427,Wizz Air,Tel Aviv Yafo,2025-06-05 05:55+03:00
+W6 4335,Wizz Air,Stuttgart,2025-06-05 06:00+03:00
+LH 1707,Lufthansa,Munich,2025-06-05 06:00+03:00
+W6 4301,Wizz Air,London,2025-06-05 06:10+03:00
+FB 7059,Bulgaria Air,El Alamein,2025-06-05 06:10+03:00
+LH 1431,Lufthansa,Frankfurt-am-Main,2025-06-05 06:15+03:00
+W6 4351,Wizz Air,Bergamo,2025-06-05 06:45+03:00
+W6 4331,Wizz Air,Dortmund,2025-06-05 06:55+03:00
+FR 625,Ryanair,Roma,2025-06-05 06:55+03:00
+FB 971,Bulgaria Air,Varna,2025-06-05 07:00+03:00
+FB 461,Bulgaria Air,Amsterdam,2025-06-05 07:00+03:00
+FB 449,Bulgaria Air,Rome,2025-06-05 07:00+03:00
+FB 431,Bulgaria Air,Paris,2025-06-05 07:00+03:00
+W6 4323,Wizz Air,Bâle/Mulhouse,2025-06-05 07:10+03:00
+FR 5453,Ryanair,Bari,2025-06-05 07:20+03:00
+OS 800,Austrian,Vienna,2025-06-05 08:00+03:00
+OS 800,Austrian,Vienna,2025-06-05 08:00+03:00
+FR 5011,Ryanair,Pisa,2025-06-05 08:55+03:00
+TK 1028,Turkish,Istanbul,2025-06-05 09:25+03:00
+FB 301,Bulgaria Air,Prague,2025-06-05 10:10+03:00
+FR 2691,Ryanair,London,2025-06-05 10:50+03:00
+LX 1391,SWISS,Zurich,2025-06-05 10:50+03:00
+FR 9237,Ryanair,Valencia,2025-06-05 11:05+03:00
+FR 3662,Ryanair,Bergamo,2025-06-05 11:20+03:00
+W6 4315,Wizz Air,Roma,2025-06-05 11:55+03:00
+LH 1425,Lufthansa,Frankfurt-am-Main,2025-06-05 12:00+03:00
+LH 1425,Lufthansa,Frankfurt-am-Main,2025-06-05 12:00+03:00
+W6 4325,Wizz Air,Eindhoven,2025-06-05 12:05+03:00
+OS 796,Austrian,Vienna,2025-06-05 12:25+03:00
+LH 1703,Lufthansa,Munich,2025-06-05 12:45+03:00
+W6 4317,Wizz Air,Hahn,2025-06-05 13:15+03:00
+FR 5571,Ryanair,Budapest,2025-06-05 13:20+03:00
+QR 228,Qatar,Doha,2025-06-05 13:30+03:00
+W6 4369,Wizz Air,Nápoli,2025-06-05 14:00+03:00
+LO 632,LOT - Polish,Warsaw,2025-06-05 14:35+03:00
+FB 977,Bulgaria Air,Varna,2025-06-05 15:00+03:00
+FR 3832,Ryanair,Luqa,2025-06-05 15:05+03:00
+A3 981,Aegean,Athens,2025-06-05 15:20+03:00
+TK 1032,Turkish,Istanbul,2025-06-05 15:35+03:00
+FB 571,Bulgaria Air,Tel Aviv Yafo,2025-06-05 15:40+03:00
+JU 113,Air Serbia,Belgrade,2025-06-05 16:05+03:00
+OS 792,Austrian,Vienna,2025-06-05 16:05+03:00
+FB 807,Bulgaria Air,Athens,2025-06-05 16:25+03:00
+FR 1149,Ryanair,Berlin,2025-06-05 16:30+03:00
+FR 6335,Ryanair,Birmingham,2025-06-05 16:40+03:00
+W6 4327,Wizz Air,Brussels,2025-06-05 17:05+03:00
+FR 6301,Ryanair,Barcelona,2025-06-05 17:10+03:00
+FB 6801,Bulgaria Air,Houmt El Souk,2025-06-05 17:25+03:00
+W6 4405,Wizz Air,Barcelona,2025-06-05 17:55+03:00
+FB 407,Bulgaria Air,Brussels,2025-06-05 18:05+03:00
+FR 9962,Ryanair,London,2025-06-05 18:20+03:00
+FR 1209,Ryanair,Bratislava,2025-06-05 18:35+03:00
+LH 1429,Lufthansa,Frankfurt-am-Main,2025-06-05 18:40+03:00
+LO 634,LOT - Polish,Warsaw,2025-06-05 18:40+03:00
+BZ 313,Blue Dart Aviation Ltd.,Tel Aviv Yafo,2025-06-05 18:55+03:00
+OS 798,Austrian,Vienna,2025-06-05 18:55+03:00
+W6 4393,Wizz Air,Lyon,2025-06-05 19:00+03:00
+U8 313,Tus,Tel Aviv Yafo,2025-06-05 19:00+03:00
+W6 4305,Wizz Air,London,2025-06-05 19:15+03:00
+FR 5548,Ryanair,Bologna,2025-06-05 19:45+03:00
+RO 298,TAROM,Bucharest,2025-06-05 19:45+03:00
+TO 4479,Transavia France,Paris,2025-06-05 19:55+03:00
+W6 4437,Wizz Air,Larnarca,2025-06-05 20:00+03:00
+W6 4437,Wizz Air,Larnarca,2025-06-05 20:00+03:00
+PC 272,Pegasus,Istanbul,2025-06-05 20:25+03:00
+FB 973,Bulgaria Air,Varna,2025-06-05 20:45+03:00
+FR 6308,Ryanair,Roma,2025-06-05 21:00+03:00
+TK 1030,Turkish,Istanbul,2025-06-05 21:15+03:00
+FR 183,Ryanair,Vienna,2025-06-05 21:45+03:00
+FR 6235,Ryanair,Alicante,2025-06-05 21:55+03:00
+FR 1441,Ryanair,Hahn,2025-06-05 22:40+03:00
+LO 636,LOT - Polish,Warsaw,2025-06-06 05:20+03:00
+W6 4427,Wizz Air,Tel Aviv Yafo,2025-06-06 05:55+03:00
+W6 4415,Wizz Air,Nice,2025-06-06 06:00+03:00
+LH 1707,Lufthansa,Munich,2025-06-06 06:00+03:00
+FR 3338,Ryanair,Paphos,2025-06-06 06:00+03:00
+FB 471,Bulgaria Air,Madrid,2025-06-06 06:10+03:00
+W6 4301,Wizz Air,London,2025-06-06 06:10+03:00
+FR 1731,Ryanair,London,2025-06-06 06:15+03:00
+LH 1431,Lufthansa,Frankfurt-am-Main,2025-06-06 06:15+03:00
+W6 4351,Wizz Air,Bergamo,2025-06-06 06:45+03:00
+W6 4331,Wizz Air,Dortmund,2025-06-06 06:55+03:00
+FB 431,Bulgaria Air,Paris,2025-06-06 07:00+03:00
+FB 461,Bulgaria Air,Amsterdam,2025-06-06 07:00+03:00
+FR 6767,Ryanair,Rodes Island,2025-06-06 07:00+03:00
+FB 971,Bulgaria Air,Varna,2025-06-06 07:00+03:00
+W6 4339,Wizz Air,Memmingen,2025-06-06 07:10+03:00
+FR 4453,Ryanair,Cologne,2025-06-06 07:20+03:00
